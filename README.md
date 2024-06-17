@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ilrsbandara&label=Profile%20views&color=0e75b6&style=flat" alt="ilrsbandara" /> </p>
-<h1 align="center">Hi, I'm Rashmini Bandara 👋</h1>
+<h1 align="center">Hii, Welcome To My Profile👋</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Student+At+Plymouth+University;Web+Developer;UI%20|%20UX+Designer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
@@ -28,13 +28,19 @@
 <br>
 <h2><p align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></p> </h2>
 <p align="center">
-  <a href="https://linkedin.com/in/rashmini bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmini bandara" height="30" width="40" /></a>  
-<a href="https://fb.com/rashmi iddamalgoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashmi iddamalgoda" height="30" width="40" /></a>
-<a href="https://instagram.com/rashi_iddamalgoda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashi_iddamalgoda_" height="30" width="40" /></a>
-<a href="mailto:rashminisaundarya19@gmail.com" >
+  <a href="https://linkedin.com/in/rashmini bandara" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmini bandara" height="30" width="40" />
+  </a> &nbsp;&nbsp; 
+<a href="https://fb.com/rashmi iddamalgoda" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashmi iddamalgoda" height="30" width="40" />
+</a> &nbsp;&nbsp;
+<a href="https://instagram.com/rashi_iddamalgoda_" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashi_iddamalgoda_" height="30" width="40" />
+</a> &nbsp;&nbsp;
+<a href="mailto:rashminisaundarya19@gmail.com" target="blank">
   <img align="center" | Gmail" width="35" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
- <a href="https://github.com/ILRSBandara">
+ <a href="https://github.com/ILRSBandara" target="blank">
     <img align="center" | GitHub" width="35" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />
 </a> &nbsp;&nbsp;
 

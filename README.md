@@ -28,18 +28,13 @@
 <br>
 <h2><p align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></p> </h2>
 <p align="center">
-  
-<a href="https://linkedin.com/in/rashmini bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmini bandara" height="30" width="40" /></a>
-  
+  <a href="https://linkedin.com/in/rashmini bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmini bandara" height="30" width="40" /></a>  
 <a href="https://fb.com/rashmi iddamalgoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashmi iddamalgoda" height="30" width="40" /></a>
-
 <a href="https://instagram.com/rashi_iddamalgoda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashi_iddamalgoda_" height="30" width="40" /></a>
-
-  <a href="mailto:rashminisaundarya19@gmail.com" >
+<a href="mailto:rashminisaundarya19@gmail.com" >
   <img align="center" | Gmail" width="35" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-
-  <a href="https://github.com/ILRSBandara">
+ <a href="https://github.com/ILRSBandara">
     <img align="center" | GitHub" width="35" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />
 </a> &nbsp;&nbsp;
 

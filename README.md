@@ -1,16 +1,15 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ilrsbandara&label=Profile%20views&color=0e75b6&style=flat" alt="ilrsbandara" /> </p>
-<h1 align="center">Hii, Welcome To My Profile👋</h1>
+<picture><p align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 150px></p></picture>
+<h1 align="center">Hii, Welcome To My Profile<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Student+At+Plymouth+University;Web+Developer;UI%20|%20UX+Designer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<p align="center">
-
-  <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
-</p>
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** ##
-
+<table align="center">
+<tr border="none">
+<td width="60%" align="left">
+  
+**About me** 
 
 - 🌱 I’m currently learning **Flutter,React**
 
@@ -19,13 +18,36 @@
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/rashmini-bandara-190a342a2/)**
 
 - ⚡ Fun fact Call me as **Rashi**
-  
-  <br>
-| ![Rashi's github stats](https://github-readme-stats.vercel.app/api?username=ILRSBandara&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ILRSBandara&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILRSBandara&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ILRSBandara&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-<br>
+<td width="60%" align="right">
+
+  <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" />
+
+  
+  </td>
+</tr>
+</table>
+
+---
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ILRSBandara&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ILRSBandara&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ILRSBandara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+---
 <h2><p align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></p> </h2>
 <p align="center">
   <a href="https://linkedin.com/in/rashmini bandara" target="blank">

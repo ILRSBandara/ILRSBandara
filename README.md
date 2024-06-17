@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ilrsbandara&label=Profile%20views&color=0e75b6&style=flat" alt="ilrsbandara" /> </p>
 <h1 align="center">Hi, I'm Rashmini Bandara 👋</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Student+At+Plymouth+University;Web+Developer;UI%20|%20UX+Designer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
@@ -8,19 +9,16 @@
   <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
 </p>
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ilrsbandara&label=Profile%20views&color=0e75b6&style=flat" alt="ilrsbandara" /> </p>
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me** ##
 
 
 - 🌱 I’m currently learning **Flutter,React**
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **flutter | Web Development**
 
-- 📫 How to reach me **rashminisaundarya19@gmail.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/rashmini-bandara-190a342a2/)**
 
-- ⚡ Fun fact **Call me as Rashi**
+- ⚡ Fun fact Call me as **Rashi**
   
   <br>
 | ![Rashi's github stats](https://github-readme-stats.vercel.app/api?username=ILRSBandara&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ILRSBandara&theme=tokyonight) |
@@ -30,9 +28,21 @@
 <br>
 <h2><p align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></p> </h2>
 <p align="center">
+  
 <a href="https://linkedin.com/in/rashmini bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmini bandara" height="30" width="40" /></a>
+  
 <a href="https://fb.com/rashmi iddamalgoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashmi iddamalgoda" height="30" width="40" /></a>
+
 <a href="https://instagram.com/rashi_iddamalgoda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashi_iddamalgoda_" height="30" width="40" /></a>
+
+  <a href="mailto:rashminisaundarya19@gmail.com" >
+  <img align="center" | Gmail" width="35" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+
+  <a href="https://github.com/ILRSBandara">
+    <img align="center" | GitHub" width="35" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />
+</a> &nbsp;&nbsp;
+
 </p>
 <br>
 <h2><p align="center"> Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></p> </h2>

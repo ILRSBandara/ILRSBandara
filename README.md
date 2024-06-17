@@ -11,13 +11,14 @@
   
 **About me** 
 
-- 🌱 I’m currently learning **Flutter,React**
+- 🌱 I’m currently learning **Flutter,React,Kotlin**
 
-- 💬 Ask me about **flutter | Web Development**
+- 💬 Ask me about **Web Development**
+- :books: My major is **Computer Science**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/rashmini-bandara-190a342a2/)**
 
-- ⚡ Fun fact Call me as **Rashi**
+- :sunglasses: Fun fact Call me as **Rashi**
 
 <td width="60%" align="right">
 
@@ -35,13 +36,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ILRSBandara&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ILRSBandara&theme=tokyonight&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ILRSBandara&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ILRSBandara&theme=tokyonight&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ILRSBandara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ILRSBandara&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -75,4 +76,14 @@
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
+</p>
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ILRSBandara&theme=tokyonight" />
+  
+ <p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ILRSBandara&theme=tokyonight&utcOffset=8" />
+   
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>

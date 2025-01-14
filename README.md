@@ -1,5 +1,4 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ilrsbandara&label=Profile%20views&color=0e75b6&style=flat" alt="ilrsbandara" /> </p>
-<picture><p align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 150px></p></picture>
 <h1 align="center">Hii, Welcome To My Profile<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Student+At+Plymouth+University;Web+Developer;UI%20|%20UX+Designer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>

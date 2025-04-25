@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ilrsbandara&label=Profile%20views&color=0e75b6&style=flat" alt="ilrsbandara" /> </p>
 <h1 align="center">Hii, Welcome To My Profile<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Student+At+Plymouth+University;Web+Developer;UI%20|%20UX+Designer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Student+At+Plymouth+University;Web+Developer;Mobile+App+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <table align="center">
@@ -39,7 +39,7 @@
   <br></br>
   
 </td>
-<td width="50%" align="center">
+<td width="70%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ILRSBandara&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
